@@ -76,7 +76,7 @@ h1 {
 /*Begin code van 2e blok*/
 #blok2 {
     margin: 0 0 5px 10px;
-    height: 800px;
+    height: auto;
 }
 
 nav {
